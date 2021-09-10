@@ -22,13 +22,14 @@ o	Green: Predicted values by the model of the testing set.<br>
 Below are all the curves of the 6 models made using matplotlib :  <br>
 
 ### 1) Moving Averages
-
+![Moving Averages](https://github.com/SamarthSajwan/Stock-Price-Prediction-Using-Machine-Learning-And-Deep-Learning/blob/main/Curves/Original.png)
 ### 2) Linear Regression
-
+![Linear Regression](https://github.com/SamarthSajwan/Stock-Price-Prediction-Using-Machine-Learning-And-Deep-Learning/blob/main/Curves/Linear Regression.png)
 ### 3) KNN
-
+![KNN](https://github.com/SamarthSajwan/Stock-Price-Prediction-Using-Machine-Learning-And-Deep-Learning/blob/main/Curves/KNN.png)
 ### 4) Auto ARIMA
-
+![Auto ARIMA](https://github.com/SamarthSajwan/Stock-Price-Prediction-Using-Machine-Learning-And-Deep-Learning/blob/main/Curves/ARIMA.png)
 ### 5) Prophet
-
+![Prophet](https://github.com/SamarthSajwan/Stock-Price-Prediction-Using-Machine-Learning-And-Deep-Learning/blob/main/Curves/Prophet.png)
 ### 6) LSTM
+![LSTM](https://github.com/SamarthSajwan/Stock-Price-Prediction-Using-Machine-Learning-And-Deep-Learning/blob/main/Curves/LSTM.png)
