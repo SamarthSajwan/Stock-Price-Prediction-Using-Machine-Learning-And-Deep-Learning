@@ -11,11 +11,24 @@ Broadly, stock market analysis is divided into two parts: <br>
  
 In this project, I have worked with historical data about the stock prices of a publicly listed company. <b>I implemented a mix of machine learning algorithms to predict the future stock price of this company, starting with simple algorithms like averaging and linear regression, and then moved on to advanced techniques like Auto ARIMA, Prophet and LSTM. </b>
 
+The original curve is : <br> 
+![Original](https://github.com/SamarthSajwan/Stock-Price-Prediction-Using-Machine-Learning-And-Deep-Learning/blob/main/Curves/Original.png)
 ### All the graphs are plotted using the Matplotlib.pyplot module of the Matplotlib library in Python, with the following colors representing:<br>
 o	Blue: Values in the Training Set of Data<br>
 o	Orange: Values in the Testing Set of Data<br>
 o	Green: Predicted values by the model of the testing set.<br>
 
-Below are all the curves of the 6 model made using matplotlib :  <br>
 
+Below are all the curves of the 6 models made using matplotlib :  <br>
 
+### 1) Moving Averages
+
+### 2) Linear Regression
+
+### 3) KNN
+
+### 4) Auto ARIMA
+
+### 5) Prophet
+
+### 6) LSTM
